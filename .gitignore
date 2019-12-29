@@ -1,2 +1,6 @@
 .vs/
 .vs
+*/obj/*
+MediatorDemo/obj/*
+.gitattributes
+*.cache
