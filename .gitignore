@@ -4,3 +4,4 @@
 MediatorDemo/obj/*
 .gitattributes
 *.cache
+*/bin/
